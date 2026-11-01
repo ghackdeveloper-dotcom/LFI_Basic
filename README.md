@@ -1,0 +1,2 @@
+# LFI_Basic
+BASIC PYLOADS FOR LFI
